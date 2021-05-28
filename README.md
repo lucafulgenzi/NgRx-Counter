@@ -10,3 +10,11 @@ NgRx provides libraries for:
 - Integration with the Angular Router.
 - Developer tooling that enhances developer experience when building many different types of applications.
 
+## Usage
+Use angular 11
+
+`npm install && npm audit fix`
+
+`npm run start`
+
+### [Redux DevTools Extension](https://github.com/zalmoxisus/redux-devtools-extension/) for debug
